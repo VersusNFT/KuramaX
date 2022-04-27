@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xF991d852139F780F09bA37197345AD94628A49e8",
+  "SCAN_LINK": "https://polygonscan.com/token/0xF991d852139F780F09bA37197345AD94628A49e8",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "KuramaX",
+  "SYMBOL": "KX",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 10000000000000000000,
+  "DISPLAY_COST": 10,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/kuramax",
+  "SHOW_BACKGROUND": true
+}
